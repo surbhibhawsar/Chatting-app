@@ -10,7 +10,3 @@
 # python manage.py runserver
 # Step-3: Finally, open the browser and go to localhost:8000
 
-# For admin panel:
-# username -> Admin
-# password -> Chatting123
-
